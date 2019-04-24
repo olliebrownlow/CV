@@ -1,7 +1,5 @@
 ## Oliver Brownlow
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
 **Full-stack junior web developer**, with a background in, and passion for, problem solving. 
 
 Before starting Makers Academy, I studied theoretical linguistics (syntax and semantics with a focus on the structure of English) to PhD level, and in between, have held positions both in teaching and management. What has consistently made me feel most alive is a good problem to solve and the knowledge gained in doing so.
